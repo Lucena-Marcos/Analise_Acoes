@@ -1,7 +1,5 @@
 # Analise Ações
 
-Analise Gráfica da empresa Cogna Educação SA, desde o momento que a empresa foi listada no IBOVESPA até os dia de Hoje.
-
-
+Analise Gráfica de empresas Listadas na Bolsa de Valores
 
 **Modelo Simples de Analise**
